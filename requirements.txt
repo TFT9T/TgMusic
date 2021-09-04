@@ -1,2 +1,3 @@
 pyrogram
 pytgcalls
+ffmpeg-python

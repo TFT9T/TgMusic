@@ -58,6 +58,7 @@ lang = {
     "volume_warning": "From 1 to 200.",
     "duration": "Duration:",
     "duration_limit": "File too big, maximum of {} minutes allowed.",
+    "file_size_limit": "File too big, maximum of {}mb allowed.",
     "already_joined": "Already joined.",
     "calls_limit": "Bot is full of calls retry later.",
     "unsupported": "Cannot play this music.",

@@ -159,7 +159,7 @@ class Player(object):
                         count, msg["title"], link["link"]
                     )
                 count += 1
-            playlist += "\n\n[Made with 💜](https://github.com/AYMENJD)."
+            playlist += "\n\n[Made with 💜](https://github.com/2ib/TgMusic)."
         if send:
             return await bot.send_message(self.chat_id, playlist)
         return playlist

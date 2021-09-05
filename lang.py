@@ -4,69 +4,72 @@
 # Language: English
 lang = {
     "download": "⏳",
-    "downloading": "Downloading {}%...",
-    "download_error": "Failed to download music.",
-    "downloaded": "Downloaded {}%.",
-    "joined": "Joined group call.",
-    "leving": "Am leving.",
-    "playing": "Playing",
+    "downloading": "جاري التحميل {}%...",
+    "download_error": "عزيزي الحلو الملف عي ينزل",
+    "downloaded": "حملته {}%",
+    "joined": "ابشر داهمت المكالمة 😉",
+    "leving": "من زين مكالمتكم صدق 🙂",
+    "playing": "جاري تشغيل",
     "playlist": {
-        "empty": "Empty playlist.",
-        "playlist": "Playlist:",
-        "full": "Playlist is full.",
-        "exists": "This music already added in my playlist.",
-        "added": "Added to playlist.",
-        "only_one": "Playlist has only one music please play more.",
+        "empty": "القائمة فاضيه يحلو",
+        "playlist": "القائمة:",
+        "full": "القائمة فل اغاني",
+        "exists": "موجودة بالقائمة",
+        "added": "ابشر ضفتها للقائمة",
+        "only_one": "القائمة مابها الا اغنية وحدا شغل زيادة يواد",
     },
-    "help": """Commands:
+    "help": """الاوامر:
 
-`/join` = Join group call.
+`/join` = امر ترسله عشان البوت يدخل المكالمة
 
-`/leave` = Leave group call.
+`/leave` = يخلي البوت يغادر المكالمة
 
-`/stop` = Stop music and delete all playlist.
+`/stop` = يطفي البوت ويحذف الاغاني
 
-`/play` = Play replyed music.
+`/play` = لتشغيل الاغنية بلرد عليها
 
-`/playlist` = Shows current chat playlist.
+`/playlist` = يوريك قائمة الاغاني
 
-`/skip` = Skips current music if playlist not empty.
+`/skip` = سكب للاغنية
 
-`/replay` = Replays current music.
+`/replay` = يعيد الاغنية من البداية
 
-`/pause` = Pause current music.
+`/current` = يوريك وش شغال من اغنية الان
 
-`/resume` = Resume current music.
+`/mute` = يكتم البوت بدون لا يوقف الاغنية
 
-`/music` = :)
+`/unmute` = يفك كتم البوت
 
-`/mute` = Mute the bot, use `/pause` instead.
+`/pause` = إيقاف مؤقت للاغنية
 
-`/ummute` = Unmute the bot.
+`/resume` = اعادة تشغيل الاغنية 
 
-`/volume` = Sets bot volume 1 ~ 200, bot must be admin.
+`/volume (1 - 200)` = تحدد نسبة الصوت للاغنية لازم صلاحية مكالمات للبوت
+
+
+@K6KKK ~ @YYYYF
 """,
-    "mute": "Muted.",
-    "unmute": "Unmuted.",
-    "pause": "Paused.",
-    "stop": "Stoping everything, all data has been cleared.",
-    "resume": "Resumed.",
-    "replay": "Replaying ...",
-    "no_music": "Nothing played.",
-    "no_music_": "Play some music please :(",
+    "mute": "سم انكتمت",
+    "unmute": "واخيرا يمدي اسولف",
+    "pause": "ابشر وقفتة",
+    "stop": "ابشر وقفت كل شيء وحذفت بيانات المكالمة",
+    "resume": "ابشر باغني الحين",
+    "replay": "بعيدها لك ...",
+    "no_music": "مافيه اغنية",
+    "no_music_": "تيكفى شغل اغنية :(",
     "volume": "Volume {}%.",
     "volume_warning": "From 1 to 200.",
     "duration": "Duration:",
-    "duration_limit": "File too big, maximum of {} minutes allowed.",
-    "file_size_limit": "File too big, maximum of {}mb allowed.",
-    "already_joined": "Already joined.",
-    "calls_limit": "Bot is full of calls retry later.",
-    "unsupported": "Cannot play this music.",
-    "skip": "Nothing to skip.",
-    "add_contact": "Added.",
-    "already_add_contact": "Already Added.",
-    "delete_contact": "Deleted.",
-    "already_delete_contact": "Not contact to delete.",
-    "total": "There is ( {} ) of active group Call.",
-    "no_total": "There is no active group call.",
+    "duration_limit": "اهب الملف كبير وشلون اشغله؟ حدي {} دقيقة",
+    "file_size_limit": "احا بقره مو ملف\nماقدر اشغله حدي {} ميغا",
+    "already_joined": "ماتشوفني متريع بالمكالمة",
+    "calls_limit": "اعذرني ولكن داخل مكالمات كثير ومصدع",
+    "unsupported": "ملف مبعوص ماقدر اشغله",
+    "skip": "مافي شيء عشان اسوي سكب ولكن يمدي اسكب وجهك",
+    "add_contact": "ضفته جهة",
+    "already_add_contact": "تراه خوي قديم مايحتاج تضيفه لبى خشمك",
+    "delete_contact": "طيرته",
+    "already_delete_contact": "ماعرفه من ذا؟",
+    "total": "عدد المكالمات ( {} ) مكالمه نشطة",
+    "no_total": "وللهي ياعيني انا والمزهريه واحد مافيه مكالمات منبوذ :(",
 }

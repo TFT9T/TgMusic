@@ -5,11 +5,11 @@
    <br>
    <b>Easy, Sample and Powerful userbot</b>
    <br>
-   <a href="https://github.com/2ib/TgMusic#features">
+   <a href="https://github.com/AYMENJD/TgMusic#features">
    Features
    </a>
    ~
-   <a href="https://github.com/2ib/TgMusic#installation">
+   <a href="https://github.com/AYMENJD/TgMusic#installation">
    Installation
    </a>
    ~
@@ -49,7 +49,7 @@ Easy and Simple Telegram UserBot focused to play music in Groups, based on [tgca
 - Clone the repository with git:
 
 ```bash
-git clone https://github.com/2ib/TgMusic && cd TgMusic
+git clone https://github.com/AYMENJD/TgMusic && cd TgMusic
 ```
 
 - Install requirements with pip:

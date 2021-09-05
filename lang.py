@@ -1,7 +1,7 @@
 # Here is bot texts.
 # feel free to fork the repository and add your language.
 # when you finish open issue.
-# Language: English
+# Language: Arabic
 lang = {
     "download": "⏳",
     "downloading": "جاري التحميل {}%...",

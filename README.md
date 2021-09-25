@@ -49,7 +49,8 @@ Easy and Simple Telegram UserBot focused to play music in Groups, based on [tgca
 - Clone the repository with git:
 
 ```bash
-git clone https://github.com/AYMENJD/TgMusic && cd TgMusic
+git clone https://github.com/TFT9T/TgMusic && cd TgMusic
+
 ```
 
 - Install requirements with pip:

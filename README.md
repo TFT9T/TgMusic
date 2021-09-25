@@ -13,11 +13,11 @@
    Installation
    </a>
    ~
-   <a href="https://t.me/YYYYF">
+   <a href="https://t.me/tft4t">
    Channel
    </a>
    ~
-   <a href="https://t.me/K6KKK">
+   <a href="https://t.me/bbqq8">
    Author
    </a>
 </p>
